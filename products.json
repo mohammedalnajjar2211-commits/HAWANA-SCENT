@@ -1,10 +1,11 @@
+
 [
   {
     "id": "device-1",
     "type": "device",
     "name": "جهاز تعطير 01",
     "en": "Aroma Diffuser 01",
-    "price": 0,
+    "price": 57000,
     "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
     "image": "assets/device-1.svg"
   },
@@ -13,7 +14,7 @@
     "type": "device",
     "name": "جهاز تعطير 02",
     "en": "Aroma Diffuser 02",
-    "price": 0,
+    "price": 106000,
     "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
     "image": "assets/device-2.svg"
   },
@@ -22,7 +23,7 @@
     "type": "device",
     "name": "جهاز تعطير 03",
     "en": "Aroma Diffuser 03",
-    "price": 0,
+    "price": 142000,
     "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
     "image": "assets/device-3.svg"
   },
@@ -31,7 +32,7 @@
     "type": "oil",
     "name": "عود ملكي",
     "en": "Fragrance Oil 01",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-1.svg"
   },
@@ -40,7 +41,7 @@
     "type": "oil",
     "name": "مسك أبيض",
     "en": "Fragrance Oil 02",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-2.svg"
   },
@@ -49,7 +50,7 @@
     "type": "oil",
     "name": "ورد طائفي",
     "en": "Fragrance Oil 03",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-3.svg"
   },
@@ -58,7 +59,7 @@
     "type": "oil",
     "name": "عنبر فاخر",
     "en": "Fragrance Oil 04",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-4.svg"
   },
@@ -67,7 +68,7 @@
     "type": "oil",
     "name": "فانيلا دافئة",
     "en": "Fragrance Oil 05",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-5.svg"
   },
@@ -76,7 +77,7 @@
     "type": "oil",
     "name": "نسيم البحر",
     "en": "Fragrance Oil 06",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-6.svg"
   },
@@ -85,7 +86,7 @@
     "type": "oil",
     "name": "ياسمين",
     "en": "Fragrance Oil 07",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-7.svg"
   },
@@ -94,7 +95,7 @@
     "type": "oil",
     "name": "خشب الصندل",
     "en": "Fragrance Oil 08",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-8.svg"
   },
@@ -103,7 +104,7 @@
     "type": "oil",
     "name": "لافندر",
     "en": "Fragrance Oil 09",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-9.svg"
   },
@@ -112,7 +113,7 @@
     "type": "oil",
     "name": "حمضيات منعشة",
     "en": "Fragrance Oil 10",
-    "price": 0,
+    "price": 25000,
     "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
     "image": "assets/oil-10.svg"
   }
