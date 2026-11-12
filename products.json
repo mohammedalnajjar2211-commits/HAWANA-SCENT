@@ -1,0 +1,119 @@
+[
+  {
+    "id": "device-1",
+    "type": "device",
+    "name": "جهاز تعطير 01",
+    "en": "Aroma Diffuser 01",
+    "price": 0,
+    "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
+    "image": "assets/device-1.svg"
+  },
+  {
+    "id": "device-2",
+    "type": "device",
+    "name": "جهاز تعطير 02",
+    "en": "Aroma Diffuser 02",
+    "price": 0,
+    "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
+    "image": "assets/device-2.svg"
+  },
+  {
+    "id": "device-3",
+    "type": "device",
+    "name": "جهاز تعطير 03",
+    "en": "Aroma Diffuser 03",
+    "price": 0,
+    "description": "جهاز تعطير للمساحات الداخلية — أضف المواصفات والسعة والتغطية الفعلية قبل النشر.",
+    "image": "assets/device-3.svg"
+  },
+  {
+    "id": "oil-1",
+    "type": "oil",
+    "name": "عود ملكي",
+    "en": "Fragrance Oil 01",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-1.svg"
+  },
+  {
+    "id": "oil-2",
+    "type": "oil",
+    "name": "مسك أبيض",
+    "en": "Fragrance Oil 02",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-2.svg"
+  },
+  {
+    "id": "oil-3",
+    "type": "oil",
+    "name": "ورد طائفي",
+    "en": "Fragrance Oil 03",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-3.svg"
+  },
+  {
+    "id": "oil-4",
+    "type": "oil",
+    "name": "عنبر فاخر",
+    "en": "Fragrance Oil 04",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-4.svg"
+  },
+  {
+    "id": "oil-5",
+    "type": "oil",
+    "name": "فانيلا دافئة",
+    "en": "Fragrance Oil 05",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-5.svg"
+  },
+  {
+    "id": "oil-6",
+    "type": "oil",
+    "name": "نسيم البحر",
+    "en": "Fragrance Oil 06",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-6.svg"
+  },
+  {
+    "id": "oil-7",
+    "type": "oil",
+    "name": "ياسمين",
+    "en": "Fragrance Oil 07",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-7.svg"
+  },
+  {
+    "id": "oil-8",
+    "type": "oil",
+    "name": "خشب الصندل",
+    "en": "Fragrance Oil 08",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-8.svg"
+  },
+  {
+    "id": "oil-9",
+    "type": "oil",
+    "name": "لافندر",
+    "en": "Fragrance Oil 09",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-9.svg"
+  },
+  {
+    "id": "oil-10",
+    "type": "oil",
+    "name": "حمضيات منعشة",
+    "en": "Fragrance Oil 10",
+    "price": 0,
+    "description": "زيت عطري مخصص لأجهزة التعطير — أضف الحجم والمكونات وتعليمات الاستخدام قبل النشر.",
+    "image": "assets/oil-10.svg"
+  }
+]

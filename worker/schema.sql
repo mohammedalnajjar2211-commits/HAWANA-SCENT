@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS orders (id TEXT PRIMARY KEY, customer_name TEXT NOT NULL, customer_phone TEXT NOT NULL, city TEXT NOT NULL, address TEXT NOT NULL, items_json TEXT NOT NULL, total_iqd INTEGER NOT NULL, invoice_id TEXT UNIQUE, invoice_number TEXT, payment_url TEXT, status TEXT NOT NULL DEFAULT 'pending', payment_id TEXT UNIQUE, created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP, paid_at TEXT);
+CREATE INDEX IF NOT EXISTS orders_status_idx ON orders(status);

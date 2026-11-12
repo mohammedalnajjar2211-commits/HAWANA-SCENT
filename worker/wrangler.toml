@@ -1,0 +1,13 @@
+name = "hawana-payments"
+main = "src.js"
+compatibility_date = "2026-11-01"
+
+# Replace database_id after: npx wrangler d1 create hawana-orders
+[[d1_databases]]
+binding = "DB"
+database_name = "hawana-orders"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+ALLOWED_ORIGIN = "https://hawanascent.com"
+SWIFTPAY_API = "https://api.swiftpayiq.com/api/v1"
