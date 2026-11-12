@@ -1,12 +1,12 @@
-name = "hawana-payments"
+
+name = "hawana-payment-api"
 main = "src.js"
 compatibility_date = "2026-11-01"
 
-# Replace database_id after: npx wrangler d1 create hawana-orders
 [[d1_databases]]
 binding = "DB"
 database_name = "hawana-orders"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "82c6d608-dc5f-4155-b235-29d456d905af"
 
 [vars]
 ALLOWED_ORIGIN = "https://hawanascent.com"
